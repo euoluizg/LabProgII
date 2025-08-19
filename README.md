@@ -26,8 +26,8 @@ Desenvolvedor iOS em formação
 
 ## 👨‍🏫 Professor(es)
 
-**Wagner de Oliveira Lima Palmeira de Araújo**
-GitHub: [own4rd](https://github.com/own4rd)
+**Wagner de Oliveira Lima Palmeira de Araújo**  
+GitHub: [own4rd](https://github.com/own4rd)  
 
 ---
 
@@ -35,19 +35,17 @@ GitHub: [own4rd](https://github.com/own4rd)
 
 Os arquivos estão organizados por datas e listas de exercícios:
 
-- `aula30-07.py` → Exercícios desenvolvidos no dia **30/07**
-- `aula05-08.py` → Exercícios desenvolvidos no dia **05/08**
-- `aula13-08.py` → Exercícios desenvolvidos no dia **13/08**
-- `listaExecAV1-01.py` → Primeira lista de exercícios da **AV1**
-- `listaExecAV1-02.py` → Segunda lista de exercícios da **AV1**
+- `aula30-07.py` → Exercícios desenvolvidos no dia **30/07**  
+- `aula05-08.py` → Exercícios desenvolvidos no dia **05/08**  
+- `aula13-08.py` → Exercícios desenvolvidos no dia **13/08**  
+- `listaExecAV1-01.py` → Primeira lista de exercícios da **AV1**  
+- `listaExecAV1-02.py` → Segunda lista de exercícios da **AV1**  
 
 > A ideia é manter cada aula e lista documentada para facilitar a revisão e o estudo.
 
 ---
 
 ## 🚀 Como Executar os Programas
-
-Para rodar os arquivos deste repositório, siga os passos abaixo:
 
 ```bash
 # 1. Clone o repositório no seu computador
@@ -58,4 +56,3 @@ cd LabProgII
 
 # 3. Execute qualquer arquivo .py usando o Python 3
 python3 aula30-07.py
-```
