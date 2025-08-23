@@ -162,14 +162,13 @@ num8 = int(input("Digite um número inteiro: "))
 if num8 <= 1:
     print(f"{num8} não é um número primo.")
 else:
-   primo = True
+    primo = True
+    for divisor in range(2, int(num8**0.5) + 1):
+        if num8 % divisor == 0:
+            primo = False
+            break
 
-for divisor in range(2, int(num8**0.5) + 1):
-    if num8 % divisor == 0:
-        primo = False
-        break
-
-if primo:
-    print(f"{num8} é um número primo.")
-else:
-    print(f"{num8} não é um número primo.")
+    if primo:
+        print(f"{num8} é um número primo.")
+    else:
+        print(f"{num8} não é um número primo.")
