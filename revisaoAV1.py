@@ -1,7 +1,7 @@
 print("------------Revisão-AV1------------")
 print("")
 
-# 1 - Crie um programa em Python que leia um valor inteiro e exivba todos os números
+# 1 - Crie um programa em Python que leia um valor inteiro e exiba todos os números
 # pares e ímpares no intervalo de 1 a esse valor.
 
 numInteiro = int(input("Digite um número inteiro: "))
