@@ -42,7 +42,9 @@ Os arquivos estão organizados por datas e listas de exercícios:
 - `listaExecAV1-02.py` → Segunda lista de exercícios da **AV1**  
 - `revisaoAV1.py` → Lista de revisão da **AV1**
 - `revisaoProvaPT2.py` → Lista de revisão da **AV1**
-- `trabalhoAV2` → Lista de exercício 24.09.2025 **AV2**
+- `Provas` → Provas
+- `aula23-09.py` → Exercícios desenvolvidos no dia **23/09**  
+- `trabalho01` → Lista de exercício **AV2**
 
 > A ideia é manter cada aula e lista documentada para facilitar a revisão e o estudo.
 
